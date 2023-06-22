@@ -1,5 +1,6 @@
 # Make your discord account online forever/(24*7)
 
+## [Fork My Replit Repo](https://replit.com/@p12v4t3/Discord-Account-Online-247)
 ## How to get your discord account's token?
 1. Open Browser and visit [discord.com](https://discord.com/app)
 2. Hit ctrl+shift+i to open inspect panel. Head towards application>local storage
