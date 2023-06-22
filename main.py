@@ -10,7 +10,7 @@ status = "online"
 
 custom_status = "status" #If you don't need a custom status on your profile, just put "" instead of "status"
 
-usertoken = os.getenv("TOKEN")
+usertoken = os.getenv("TOKEN") #If you are hosting it locally just pass in your TOKEN and remove os.getenv("TOKEN")
 if not usertoken:
     print("[ERROR] Please add a token inside Secrets.")
     sys.exit()
