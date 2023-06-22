@@ -59,7 +59,7 @@ def onliner(token, status):
                     "id": "custom",
                     #Uncomment the below lines if you want an emoji in the status
                     "emoji": {
-                        "name": "pepetoilet",
+                        "name": "pepedance",
                         "id": "988390374089306172",
                         "animated": True,
                     },
