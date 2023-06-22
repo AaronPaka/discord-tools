@@ -7,15 +7,14 @@
 3. You should a similar interface like this ![image](img/image0.png)
 4. Click on https://discord.com/ and it should show all the details of your account towards the right side
 5. ![image](img/image2.png)
-   Search *token* in Filter option, something similar will show up like the above image.  
-6. ![image](image2.png)
-   Open the token (select the *token* option only from amongst tokens, and any other attributes) as shown as above and copy the token
+   Search *token* in Filter option, something similar will show up like the above image.
+6. Open the token (select the *token* option only from amongst tokens, and any other attributes) as shown as above and copy the token
 
 ***Note if you have multiple account logged into the same browser multiple tokens might be displayed***
 
 
 ## Adding your token on replit
-After forking this replit follow these steps:
+After [forking](https://replit.com/@p12v4t3/Discord-Account-Online-247) this replit follow these steps:
 1. **Tools > Secrets > Add New Secret**
 2. Give the Key Name as '**TOKEN**' & pass in your token value, that was previously fetch by us as the *value*.
 
