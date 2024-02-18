@@ -1,4 +1,4 @@
-# Make your discord account online forever/(24*7)
+# Make your discord account online forever/(24*7) (This method no longer works, but can be used on different online Python IDE)
 
 ## [Fork My Replit Repo](https://replit.com/@p12v4t3/Discord-Account-Online-247)
 ## How to get your discord account's token?
